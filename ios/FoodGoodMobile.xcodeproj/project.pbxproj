@@ -14,6 +14,29 @@
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		7699B88040F8A987B510C191 /* libPods-FoodGoodMobile-FoodGoodMobileTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-FoodGoodMobile-FoodGoodMobileTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		CC1847494DB449B894C4F752 /* JetBrainsMonoBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 038118FEDA3D42E582F3009C /* JetBrainsMonoBold.ttf */; };
+		BCAB01A8D16C4AC9A15234F3 /* JetBrainsMonoBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0204443BBD76428191043FCB /* JetBrainsMonoBoldItalic.ttf */; };
+		E68A7FA84CF44127AA6F11E3 /* JetBrainsMonoExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3ED5DBD187E84505951F673B /* JetBrainsMonoExtraBold.ttf */; };
+		F4496F50BD1C4F849C1299B6 /* JetBrainsMonoExtraBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5ACBFFB87E0143919AA4E977 /* JetBrainsMonoExtraBoldItalic.ttf */; };
+		8204EE4272584E86BF4E9833 /* JetBrainsMonoExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B0973FD5B4D341F7B7F9F5DA /* JetBrainsMonoExtraLight.ttf */; };
+		B21E10690EF9423E8CB46043 /* JetBrainsMonoExtraLightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7AD5E22B9CB649FE9C3E6DDF /* JetBrainsMonoExtraLightItalic.ttf */; };
+		C4B3BD1609F446A0B0EF2AFD /* JetBrainsMonoItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E87C476AF75A4C5AA73B8A65 /* JetBrainsMonoItalic.ttf */; };
+		CDA67BE37F1C4EEC8EED44AF /* JetBrainsMonoLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8A6CB94A019249D3B40B916E /* JetBrainsMonoLight.ttf */; };
+		F20ED70562C942928DC7326A /* JetBrainsMonoLightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 99ABA0790CFC483BB9E74B05 /* JetBrainsMonoLightItalic.ttf */; };
+		FD5838DA1C014194B9FEB64C /* JetBrainsMonoMedium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4E9624541BC249BEB5AF8BBD /* JetBrainsMonoMedium.ttf */; };
+		B9E74194B19041FCA543EC2D /* JetBrainsMonoMediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FFA3FC3DD1994254A529881F /* JetBrainsMonoMediumItalic.ttf */; };
+		B94D8DCC6CCE49D9AA7CF7E5 /* JetBrainsMonoRegular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 45E69A6C39474078BD93BA36 /* JetBrainsMonoRegular.ttf */; };
+		1A884D0578A44B35BFB3BE3E /* JetBrainsMonoSemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A6C44DD7F6294060863BC0E9 /* JetBrainsMonoSemiBold.ttf */; };
+		6F246B3AD98C4965B367C815 /* JetBrainsMonoSemiBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8B9AC5B5FF364D2F9302FC5F /* JetBrainsMonoSemiBoldItalic.ttf */; };
+		B449D972D88F48A4B594311D /* JetBrainsMonoThin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A77606AE9E48480F8AF4B749 /* JetBrainsMonoThin.ttf */; };
+		78E6350E8CEF40CF8EFF0F13 /* JetBrainsMonoThinItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 677CFA2D431B4DAE9618C20F /* JetBrainsMonoThinItalic.ttf */; };
+		9097213D71094FDBA32F3D1C /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = E2FB3B8B829E490AB1BDD694 /* logo.png */; };
+		C333F580F61D4E8781DF6D60 /* caddie.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0D4C4CDFFDD64D2094F72CA9 /* caddie.jpg */; };
+		C8722F54D6CF4A6BAF1369CB /* dairy_product.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 545A479A0FAF47A8B18FA6B4 /* dairy_product.jpg */; };
+		7BFFCAA5634A4E59AFE0572F /* fruit.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 416FC4CC3D5E4189BDF3D083 /* fruit.jpg */; };
+		5CC0CF6972754395947E6096 /* grocery.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 166BA6850B4F47A29F78C4CE /* grocery.jpg */; };
+		74ABE533B0294FA58B50ECA6 /* meat.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3A47217560934EFFBC7878CA /* meat.jpg */; };
+		8A92FC18A8A048259F38568F /* vegetable.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8100328C41DF40C0BDBC2BFF /* vegetable.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +67,29 @@
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = FoodGoodMobile/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-FoodGoodMobile-FoodGoodMobileTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FoodGoodMobile-FoodGoodMobileTests.release.xcconfig"; path = "Target Support Files/Pods-FoodGoodMobile-FoodGoodMobileTests/Pods-FoodGoodMobile-FoodGoodMobileTests.release.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		038118FEDA3D42E582F3009C /* JetBrainsMonoBold.ttf */ = {isa = PBXFileReference; name = "JetBrainsMonoBold.ttf"; path = "../assets/fonts/JetBrainsMonoBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		0204443BBD76428191043FCB /* JetBrainsMonoBoldItalic.ttf */ = {isa = PBXFileReference; name = "JetBrainsMonoBoldItalic.ttf"; path = "../assets/fonts/JetBrainsMonoBoldItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		3ED5DBD187E84505951F673B /* JetBrainsMonoExtraBold.ttf */ = {isa = PBXFileReference; name = "JetBrainsMonoExtraBold.ttf"; path = "../assets/fonts/JetBrainsMonoExtraBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		5ACBFFB87E0143919AA4E977 /* JetBrainsMonoExtraBoldItalic.ttf */ = {isa = PBXFileReference; name = "JetBrainsMonoExtraBoldItalic.ttf"; path = "../assets/fonts/JetBrainsMonoExtraBoldItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		B0973FD5B4D341F7B7F9F5DA /* JetBrainsMonoExtraLight.ttf */ = {isa = PBXFileReference; name = "JetBrainsMonoExtraLight.ttf"; path = "../assets/fonts/JetBrainsMonoExtraLight.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		7AD5E22B9CB649FE9C3E6DDF /* JetBrainsMonoExtraLightItalic.ttf */ = {isa = PBXFileReference; name = "JetBrainsMonoExtraLightItalic.ttf"; path = "../assets/fonts/JetBrainsMonoExtraLightItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		E87C476AF75A4C5AA73B8A65 /* JetBrainsMonoItalic.ttf */ = {isa = PBXFileReference; name = "JetBrainsMonoItalic.ttf"; path = "../assets/fonts/JetBrainsMonoItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		8A6CB94A019249D3B40B916E /* JetBrainsMonoLight.ttf */ = {isa = PBXFileReference; name = "JetBrainsMonoLight.ttf"; path = "../assets/fonts/JetBrainsMonoLight.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		99ABA0790CFC483BB9E74B05 /* JetBrainsMonoLightItalic.ttf */ = {isa = PBXFileReference; name = "JetBrainsMonoLightItalic.ttf"; path = "../assets/fonts/JetBrainsMonoLightItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		4E9624541BC249BEB5AF8BBD /* JetBrainsMonoMedium.ttf */ = {isa = PBXFileReference; name = "JetBrainsMonoMedium.ttf"; path = "../assets/fonts/JetBrainsMonoMedium.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		FFA3FC3DD1994254A529881F /* JetBrainsMonoMediumItalic.ttf */ = {isa = PBXFileReference; name = "JetBrainsMonoMediumItalic.ttf"; path = "../assets/fonts/JetBrainsMonoMediumItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		45E69A6C39474078BD93BA36 /* JetBrainsMonoRegular.ttf */ = {isa = PBXFileReference; name = "JetBrainsMonoRegular.ttf"; path = "../assets/fonts/JetBrainsMonoRegular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		A6C44DD7F6294060863BC0E9 /* JetBrainsMonoSemiBold.ttf */ = {isa = PBXFileReference; name = "JetBrainsMonoSemiBold.ttf"; path = "../assets/fonts/JetBrainsMonoSemiBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		8B9AC5B5FF364D2F9302FC5F /* JetBrainsMonoSemiBoldItalic.ttf */ = {isa = PBXFileReference; name = "JetBrainsMonoSemiBoldItalic.ttf"; path = "../assets/fonts/JetBrainsMonoSemiBoldItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		A77606AE9E48480F8AF4B749 /* JetBrainsMonoThin.ttf */ = {isa = PBXFileReference; name = "JetBrainsMonoThin.ttf"; path = "../assets/fonts/JetBrainsMonoThin.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		677CFA2D431B4DAE9618C20F /* JetBrainsMonoThinItalic.ttf */ = {isa = PBXFileReference; name = "JetBrainsMonoThinItalic.ttf"; path = "../assets/fonts/JetBrainsMonoThinItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		E2FB3B8B829E490AB1BDD694 /* logo.png */ = {isa = PBXFileReference; name = "logo.png"; path = "../assets/images/logo.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		0D4C4CDFFDD64D2094F72CA9 /* caddie.jpg */ = {isa = PBXFileReference; name = "caddie.jpg"; path = "../assets/images/caddie.jpg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		545A479A0FAF47A8B18FA6B4 /* dairy_product.jpg */ = {isa = PBXFileReference; name = "dairy_product.jpg"; path = "../assets/images/dairy_product.jpg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		416FC4CC3D5E4189BDF3D083 /* fruit.jpg */ = {isa = PBXFileReference; name = "fruit.jpg"; path = "../assets/images/fruit.jpg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		166BA6850B4F47A29F78C4CE /* grocery.jpg */ = {isa = PBXFileReference; name = "grocery.jpg"; path = "../assets/images/grocery.jpg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		3A47217560934EFFBC7878CA /* meat.jpg */ = {isa = PBXFileReference; name = "meat.jpg"; path = "../assets/images/meat.jpg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		8100328C41DF40C0BDBC2BFF /* vegetable.jpg */ = {isa = PBXFileReference; name = "vegetable.jpg"; path = "../assets/images/vegetable.jpg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -122,6 +168,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				1FC21BF522CC43F49642BE2B /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -147,6 +194,37 @@
 			);
 			path = Pods;
 			sourceTree = "<group>";
+		};
+		1FC21BF522CC43F49642BE2B /* Resources */ = {
+			isa = "PBXGroup";
+			children = (
+				038118FEDA3D42E582F3009C /* JetBrainsMonoBold.ttf */,
+				0204443BBD76428191043FCB /* JetBrainsMonoBoldItalic.ttf */,
+				3ED5DBD187E84505951F673B /* JetBrainsMonoExtraBold.ttf */,
+				5ACBFFB87E0143919AA4E977 /* JetBrainsMonoExtraBoldItalic.ttf */,
+				B0973FD5B4D341F7B7F9F5DA /* JetBrainsMonoExtraLight.ttf */,
+				7AD5E22B9CB649FE9C3E6DDF /* JetBrainsMonoExtraLightItalic.ttf */,
+				E87C476AF75A4C5AA73B8A65 /* JetBrainsMonoItalic.ttf */,
+				8A6CB94A019249D3B40B916E /* JetBrainsMonoLight.ttf */,
+				99ABA0790CFC483BB9E74B05 /* JetBrainsMonoLightItalic.ttf */,
+				4E9624541BC249BEB5AF8BBD /* JetBrainsMonoMedium.ttf */,
+				FFA3FC3DD1994254A529881F /* JetBrainsMonoMediumItalic.ttf */,
+				45E69A6C39474078BD93BA36 /* JetBrainsMonoRegular.ttf */,
+				A6C44DD7F6294060863BC0E9 /* JetBrainsMonoSemiBold.ttf */,
+				8B9AC5B5FF364D2F9302FC5F /* JetBrainsMonoSemiBoldItalic.ttf */,
+				A77606AE9E48480F8AF4B749 /* JetBrainsMonoThin.ttf */,
+				677CFA2D431B4DAE9618C20F /* JetBrainsMonoThinItalic.ttf */,
+				E2FB3B8B829E490AB1BDD694 /* logo.png */,
+				0D4C4CDFFDD64D2094F72CA9 /* caddie.jpg */,
+				545A479A0FAF47A8B18FA6B4 /* dairy_product.jpg */,
+				416FC4CC3D5E4189BDF3D083 /* fruit.jpg */,
+				166BA6850B4F47A29F78C4CE /* grocery.jpg */,
+				3A47217560934EFFBC7878CA /* meat.jpg */,
+				8100328C41DF40C0BDBC2BFF /* vegetable.jpg */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+			path = "";
 		};
 /* End PBXGroup section */
 
@@ -243,6 +321,29 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				CC1847494DB449B894C4F752 /* JetBrainsMonoBold.ttf in Resources */,
+				BCAB01A8D16C4AC9A15234F3 /* JetBrainsMonoBoldItalic.ttf in Resources */,
+				E68A7FA84CF44127AA6F11E3 /* JetBrainsMonoExtraBold.ttf in Resources */,
+				F4496F50BD1C4F849C1299B6 /* JetBrainsMonoExtraBoldItalic.ttf in Resources */,
+				8204EE4272584E86BF4E9833 /* JetBrainsMonoExtraLight.ttf in Resources */,
+				B21E10690EF9423E8CB46043 /* JetBrainsMonoExtraLightItalic.ttf in Resources */,
+				C4B3BD1609F446A0B0EF2AFD /* JetBrainsMonoItalic.ttf in Resources */,
+				CDA67BE37F1C4EEC8EED44AF /* JetBrainsMonoLight.ttf in Resources */,
+				F20ED70562C942928DC7326A /* JetBrainsMonoLightItalic.ttf in Resources */,
+				FD5838DA1C014194B9FEB64C /* JetBrainsMonoMedium.ttf in Resources */,
+				B9E74194B19041FCA543EC2D /* JetBrainsMonoMediumItalic.ttf in Resources */,
+				B94D8DCC6CCE49D9AA7CF7E5 /* JetBrainsMonoRegular.ttf in Resources */,
+				1A884D0578A44B35BFB3BE3E /* JetBrainsMonoSemiBold.ttf in Resources */,
+				6F246B3AD98C4965B367C815 /* JetBrainsMonoSemiBoldItalic.ttf in Resources */,
+				B449D972D88F48A4B594311D /* JetBrainsMonoThin.ttf in Resources */,
+				78E6350E8CEF40CF8EFF0F13 /* JetBrainsMonoThinItalic.ttf in Resources */,
+				9097213D71094FDBA32F3D1C /* logo.png in Resources */,
+				C333F580F61D4E8781DF6D60 /* caddie.jpg in Resources */,
+				C8722F54D6CF4A6BAF1369CB /* dairy_product.jpg in Resources */,
+				7BFFCAA5634A4E59AFE0572F /* fruit.jpg in Resources */,
+				5CC0CF6972754395947E6096 /* grocery.jpg in Resources */,
+				74ABE533B0294FA58B50ECA6 /* meat.jpg in Resources */,
+				8A92FC18A8A048259F38568F /* vegetable.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

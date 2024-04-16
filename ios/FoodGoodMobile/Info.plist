@@ -26,14 +26,13 @@
 	<true/>
 	<key>NSAppTransportSecurity</key>
 	<dict>
-	  <!-- Do not change NSAllowsArbitraryLoads to true, or you will risk app rejection! -->
 		<key>NSAllowsArbitraryLoads</key>
 		<false/>
 		<key>NSAllowsLocalNetworking</key>
 		<true/>
 	</dict>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string></string>
+	<string/>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIRequiredDeviceCapabilities</key>
@@ -48,5 +47,24 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+	<key>UIAppFonts</key>
+	<array>
+		<string>JetBrainsMonoBold.ttf</string>
+		<string>JetBrainsMonoBoldItalic.ttf</string>
+		<string>JetBrainsMonoExtraBold.ttf</string>
+		<string>JetBrainsMonoExtraBoldItalic.ttf</string>
+		<string>JetBrainsMonoExtraLight.ttf</string>
+		<string>JetBrainsMonoExtraLightItalic.ttf</string>
+		<string>JetBrainsMonoItalic.ttf</string>
+		<string>JetBrainsMonoLight.ttf</string>
+		<string>JetBrainsMonoLightItalic.ttf</string>
+		<string>JetBrainsMonoMedium.ttf</string>
+		<string>JetBrainsMonoMediumItalic.ttf</string>
+		<string>JetBrainsMonoRegular.ttf</string>
+		<string>JetBrainsMonoSemiBold.ttf</string>
+		<string>JetBrainsMonoSemiBoldItalic.ttf</string>
+		<string>JetBrainsMonoThin.ttf</string>
+		<string>JetBrainsMonoThinItalic.ttf</string>
+	</array>
 </dict>
 </plist>

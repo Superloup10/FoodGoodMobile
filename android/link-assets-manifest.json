@@ -1,0 +1,97 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/JetBrainsMonoBold.ttf",
+      "sha1": "8a0806a42bb8c44290735c17fbb439b8d8c08ec5"
+    },
+    {
+      "path": "assets/fonts/JetBrainsMonoBoldItalic.ttf",
+      "sha1": "7b9092d8adfb9cfb7c26acd02a9ec4a6158a4546"
+    },
+    {
+      "path": "assets/fonts/JetBrainsMonoExtraBold.ttf",
+      "sha1": "c414a0e9e1f3ad17e236bd60cc89badec7be29c4"
+    },
+    {
+      "path": "assets/fonts/JetBrainsMonoExtraBoldItalic.ttf",
+      "sha1": "c32625140127a45ccc72967caf4b19a4a0a16465"
+    },
+    {
+      "path": "assets/fonts/JetBrainsMonoExtraLight.ttf",
+      "sha1": "afb2c31cb893c82812f25051146f6b0a346cc0b9"
+    },
+    {
+      "path": "assets/fonts/JetBrainsMonoExtraLightItalic.ttf",
+      "sha1": "9177f4139b4fc724f61aedf7a51ec453ba2d5561"
+    },
+    {
+      "path": "assets/fonts/JetBrainsMonoItalic.ttf",
+      "sha1": "936cdfc58bebc8b39e9aeaad3f2c92e9efc8aec4"
+    },
+    {
+      "path": "assets/fonts/JetBrainsMonoLight.ttf",
+      "sha1": "f2cb906a2416e6981bdf29932661b0e92600c8d4"
+    },
+    {
+      "path": "assets/fonts/JetBrainsMonoLightItalic.ttf",
+      "sha1": "1050744c8c573c37bd52788376eba0887ddf86c7"
+    },
+    {
+      "path": "assets/fonts/JetBrainsMonoMedium.ttf",
+      "sha1": "5bf8fa15598c049508345993d774fae5e0722d42"
+    },
+    {
+      "path": "assets/fonts/JetBrainsMonoMediumItalic.ttf",
+      "sha1": "00256d354e7f30fb3c0e14b468a6625990050a95"
+    },
+    {
+      "path": "assets/fonts/JetBrainsMonoRegular.ttf",
+      "sha1": "50fc729787e6133b511444b185c7397bd3ccd3da"
+    },
+    {
+      "path": "assets/fonts/JetBrainsMonoSemiBold.ttf",
+      "sha1": "3660d46e706af24cf531ae2098c8bb4c14dc4847"
+    },
+    {
+      "path": "assets/fonts/JetBrainsMonoSemiBoldItalic.ttf",
+      "sha1": "87b2d362610011997b1dfa0d36c82e511f44493c"
+    },
+    {
+      "path": "assets/fonts/JetBrainsMonoThin.ttf",
+      "sha1": "c11218d659dba5975eb681ffd17f4ed1ae784f63"
+    },
+    {
+      "path": "assets/fonts/JetBrainsMonoThinItalic.ttf",
+      "sha1": "5429f1fa539bfaf0e3e79586bed5b9864593a236"
+    },
+    {
+      "path": "assets/images/caddie.jpg",
+      "sha1": "35e4cffcd19d6b168d354795d3875634611d13b8"
+    },
+    {
+      "path": "assets/images/dairy_product.jpg",
+      "sha1": "b4731c9d30a0a5d5fdba3449051e74a762151406"
+    },
+    {
+      "path": "assets/images/fruit.jpg",
+      "sha1": "2a7936d8d6074c71f0440d7aed70646e356b7b63"
+    },
+    {
+      "path": "assets/images/grocery.jpg",
+      "sha1": "c3f04c3b929a869f3dad4db855ca75f64ac7995f"
+    },
+    {
+      "path": "assets/images/logo.png",
+      "sha1": "87eecbd5cef7c3e3f79a0d992c5571a0dfc33c67"
+    },
+    {
+      "path": "assets/images/meat.jpg",
+      "sha1": "0ab63859c31ef00e405c570614c129c684be3a9a"
+    },
+    {
+      "path": "assets/images/vegetable.jpg",
+      "sha1": "6dc1292f561752cdc5e0866af083c92947726ae9"
+    }
+  ]
+}
